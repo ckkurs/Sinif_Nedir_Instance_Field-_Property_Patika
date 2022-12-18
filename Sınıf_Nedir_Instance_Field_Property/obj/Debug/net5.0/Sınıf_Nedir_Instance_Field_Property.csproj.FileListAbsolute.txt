@@ -1,0 +1,16 @@
+C:\Users\Cem\Desktop\C#\Sınıf_Nedir_Instance_Field_Property\bin\Debug\net5.0\Sınıf_Nedir_Instance_Field_Property.exe
+C:\Users\Cem\Desktop\C#\Sınıf_Nedir_Instance_Field_Property\bin\Debug\net5.0\Sınıf_Nedir_Instance_Field_Property.deps.json
+C:\Users\Cem\Desktop\C#\Sınıf_Nedir_Instance_Field_Property\bin\Debug\net5.0\Sınıf_Nedir_Instance_Field_Property.runtimeconfig.json
+C:\Users\Cem\Desktop\C#\Sınıf_Nedir_Instance_Field_Property\bin\Debug\net5.0\Sınıf_Nedir_Instance_Field_Property.runtimeconfig.dev.json
+C:\Users\Cem\Desktop\C#\Sınıf_Nedir_Instance_Field_Property\bin\Debug\net5.0\Sınıf_Nedir_Instance_Field_Property.dll
+C:\Users\Cem\Desktop\C#\Sınıf_Nedir_Instance_Field_Property\bin\Debug\net5.0\Sınıf_Nedir_Instance_Field_Property.pdb
+C:\Users\Cem\Desktop\C#\Sınıf_Nedir_Instance_Field_Property\obj\Debug\net5.0\Sınıf_Nedir_Instance_Field_Property.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\C#\Sınıf_Nedir_Instance_Field_Property\obj\Debug\net5.0\Sınıf_Nedir_Instance_Field_Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\C#\Sınıf_Nedir_Instance_Field_Property\obj\Debug\net5.0\Sınıf_Nedir_Instance_Field_Property.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\C#\Sınıf_Nedir_Instance_Field_Property\obj\Debug\net5.0\Sınıf_Nedir_Instance_Field_Property.AssemblyInfo.cs
+C:\Users\Cem\Desktop\C#\Sınıf_Nedir_Instance_Field_Property\obj\Debug\net5.0\Sınıf_Nedir_Instance_Field_Property.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\C#\Sınıf_Nedir_Instance_Field_Property\obj\Debug\net5.0\Sınıf_Nedir_Instance_Field_Property.dll
+C:\Users\Cem\Desktop\C#\Sınıf_Nedir_Instance_Field_Property\obj\Debug\net5.0\refint\Sınıf_Nedir_Instance_Field_Property.dll
+C:\Users\Cem\Desktop\C#\Sınıf_Nedir_Instance_Field_Property\obj\Debug\net5.0\Sınıf_Nedir_Instance_Field_Property.pdb
+C:\Users\Cem\Desktop\C#\Sınıf_Nedir_Instance_Field_Property\obj\Debug\net5.0\Sınıf_Nedir_Instance_Field_Property.genruntimeconfig.cache
+C:\Users\Cem\Desktop\C#\Sınıf_Nedir_Instance_Field_Property\obj\Debug\net5.0\ref\Sınıf_Nedir_Instance_Field_Property.dll
